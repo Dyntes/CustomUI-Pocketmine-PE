@@ -1,0 +1,6 @@
+name: CustomUI
+description: This plugin is used to make a custom UI for in game used
+main: Dyntes\CustomUI\main
+version : 0.1.0
+api : 3.0.0
+author: Dyntes
